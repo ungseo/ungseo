@@ -11,10 +11,19 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-/\
+<br>
 
 <a href="https://dev-get-jop.tistory.com/">
     <img 
         src="https://img.shields.io/badge/Blog-dreamveloper-blueviolet?style=flat&logo=Tistory&link=https://www.dev-get-jop.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+<br><br><br><br>
+Use Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ungseo&layout=compact&theme=moltack&langs_count=3)]
+<br><br><br><br> 
+BackJoon Algorithm Progress
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ungseo)]
