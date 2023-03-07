@@ -19,7 +19,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <br><br>
-BackJoon Algorithm Progress
+<h1 style="color:White; Fontsize:20px;">BackJoon Algorithm Progress</h1>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ungseo)](https://solved.ac/ungseo)
 
