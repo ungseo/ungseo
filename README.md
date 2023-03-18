@@ -5,15 +5,15 @@
 
 
 -->
-<a href="https://www.instagram.com/ungseo/">
+<a href="https://www.instagram.com/ungseo/">인스타: 
     <img 
         src="http://img.shields.io/badge/-instagram-390213?style=flat&logo=Instagram&link=https://www.instagram.com/ungseo/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-<br>
+<br><br>
 
-<a href="https://dev-get-jop.tistory.com/">
+<a href="https://dev-get-jop.tistory.com/">블로그: 
     <img 
         src="https://img.shields.io/badge/Blog-dreamveloper-blueviolet?style=flat&logo=Tistory&link=https://www.dev-get-jop.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
