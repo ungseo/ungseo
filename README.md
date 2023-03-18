@@ -1,22 +1,24 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **ungseo/ungseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 -->
+<br>
 <a href="https://www.instagram.com/ungseo/">
     <img 
         src="http://img.shields.io/badge/-instagram-390213?style=flat&logo=Instagram&link=https://www.instagram.com/ungseo/"
-        style="height : 20px; margin-left : 10px; margin-right : 10px;"/>
+        style="height : 35px; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+<br>
 <br>
 
 <a href="https://dev-get-jop.tistory.com/">
     <img 
         src="https://img.shields.io/badge/Blog-dreamveloper-blueviolet?style=flat&logo=Tistory&link=https://www.dev-get-jop.tistory.com/"
-        style="height : 20px; margin-left : 10px; margin-right : 10px;"/>
+        style="height : 35px; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <br><br>
 <h1 style="color:White; Fontsize:20px;">BackJoon Algorithm Progress</h1>
