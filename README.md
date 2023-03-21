@@ -19,6 +19,8 @@
     <img 
         src="https://img.shields.io/badge/Blog-dreamveloper-blueviolet?style=flat&logo=Tistory&link=https://www.dev-get-jop.tistory.com/"
         style="height : 35px; margin-left : 10px; margin-right : 10px;"/>
+    <img
+         src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcoNYyf%2Fbtr49Ua4eQp%2FAHswq4KE96TSMeI0sL3cV1%2Fimg.webp" width="50px" alt="솜이">
 </a>
 <br><br>
 <h1 style="color:White; Fontsize:20px;">BackJoon Algorithm Progress</h1>
