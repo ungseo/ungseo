@@ -29,7 +29,6 @@
 
 <br><br>
 
-
-![ungseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ungseo&show_icons=true&theme=moltack)&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ungseo&layout=compact&theme=moltack&langs_count=3)
+![ungseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ungseo&show_icons=true&theme=dark)&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ungseo&layout=compact&theme=dark)
 
 Ef@
